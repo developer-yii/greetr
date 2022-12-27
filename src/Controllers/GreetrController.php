@@ -3,6 +3,7 @@ namespace Amcodr\Greetr\Controllers;
 
 use Illuminate\Http\Request;
 use Amcodr\Greetr\Greetr;
+use Amcodr\Greetr\Inspire;
 
 class GreetrController
 {
