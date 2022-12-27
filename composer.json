@@ -1,0 +1,20 @@
+{
+    "name": "amcodr/greetr",
+    "description": "will greet you",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Navnit Malaviya",
+            "email": "navnit.amcodr@gmail.com",
+            "homepage": "https://amcodr.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Amcodr\\Greetr\\": "src/"
+        }
+    },
+    "require": {},
+}
