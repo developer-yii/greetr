@@ -4,7 +4,7 @@ namespace Amcodr\Greetr\Controllers;
 use Illuminate\Http\Request;
 use Amcodr\Greetr\Greetr;
 
-class InspirationController
+class GreetrController
 {
     public function __invoke(Inspire $inspire) {
 
